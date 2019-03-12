@@ -1,0 +1,53 @@
+#videoYoutube,header{
+    background-color: red;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#searchVideo{
+    width: 500px;
+}
+h1 { 
+    font-family: "Century Gothic"; 
+    font-size: 30px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 12px; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+} 
+
+h2 { 
+    font-family: "Century Gothic"; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 12px; 
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    text-align: center;
+}
+
+footer { 
+    display: block;
+  }
+
+#videoResults{
+    border-left: 6px solid red;
+    background-color: lightgrey;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
